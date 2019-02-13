@@ -6,6 +6,8 @@ Article Link:
 https://www.wired.com/story/pentagon-doubles-down-ai-wants-help-big-tech/
 
 
+Comment:
+________
 This is a really cool article that highlights the increasing investment that the 
 Pentagon is putting into AI technology.  The Pentagon believes that AI tech has advanced
 to the point where it can be effectively implemented within all branches of the
@@ -21,3 +23,5 @@ consisting of Silicon Valley advisors is developing a set of ethical principles
 for use with AI. For now, there is nothing being developed for autonomous weapons systems,
 but there are plans to in the future.  
 
+Discussion:
+-----------
